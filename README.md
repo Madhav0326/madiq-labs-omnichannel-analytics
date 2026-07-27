@@ -20,10 +20,10 @@ A Power BI portfolio project built to explore how business, voice, sales interac
 
 ## Project Files
 
-- [Power BI Dashboard](dashboard/MaDIQ Labs Omni-Channel Analytics Dashboard.pbix)
-- [Dashboard Explanation](documentation/MaDIq Labs Dashboard Explanation.pdf)
-- [Technical Documentation](documentation/MaDIq Labs Technical Explanation.pdf)
-- [Synthetic Datasets](datasets)
+- [Power BI Dashboard](<dashboard/MaDIQ Labs Omni-Channel Analytics Dashboard.pbix>)
+- [Dashboard Explanation](<documentation/MaDIq Labs Dashboard Explanation.pdf>)
+- [Technical Documentation](<documentation/MaDIq Labs Technical Explanation.pdf>)
+- [Synthetic Datasets](dataset/)
 
 > The `.pbix` file can be downloaded and opened using Power BI Desktop.
 
