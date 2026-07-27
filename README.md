@@ -7,16 +7,16 @@ A Power BI portfolio project built to explore how business, voice, sales interac
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/01_Executive_Overview.png)
+![Executive Overview](screenshots/01_Executive_Overview.png.jpg)
 
 ### VoxIQ — Voice Analytics
-![VoxIQ Analytics](screenshots/02_VoxIQ_Analytics.png)
+![VoxIQ Analytics](screenshots/02_VoxIQ_Analytics.png.jpg)
 
 ### SalesIQ AI
-![SalesIQ AI](screenshots/03_SalesIQ_AI.png)
+![SalesIQ AI](screenshots/03_SalesIQ_AI.png.jpg)
 
 ### AI Performance
-![AI Performance](screenshots/04_AI_Performance.png)
+![AI Performance](screenshots/04_AI_Performance.png.jpg)
 
 ## Project Overview
 
