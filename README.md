@@ -210,11 +210,16 @@ madiq-labs-omnichannel-analytics/
 │   └── 04_AI_Performance.png
 │
 ├── dataset/
-│   └── synthetic datasets
+│   ├── Automation Events.csv
+│   ├── CRM Updates.csv
+│   ├── Customer Calls.csv
+│   ├── Field Sales.csv
+│   ├── SalesIQ AI Interactions.csv
+│   └── AI Performance Logs.csv
 │
 └── documentation/
-    ├── MaDIq_Labs_Dashboard_Explanation.pdf
-    └── MaDIq_Labs_Technical_Explanation.pdf
+    ├── MaDIq Labs Dashboard Explanation.pdf
+    └── MaDIq Labs Technical Explanation.pdf
 ```
 
 ## Documentation
