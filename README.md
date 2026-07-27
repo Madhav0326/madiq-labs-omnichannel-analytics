@@ -201,7 +201,7 @@ madiq-labs-omnichannel-analytics/
 ├── README.md
 │
 ├── dashboard/
-│   └── MaDIq_Labs_Analytics.pbix
+│   └── MaDIQ AI Omni-Channel Analytics Dashboard.pbix
 │
 ├── screenshots/
 │   ├── 01_Executive_Overview.png
