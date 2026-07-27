@@ -18,6 +18,15 @@ A Power BI portfolio project built to explore how business, voice, sales interac
 ### AI Performance
 ![AI Performance](screenshots/04_AI_Performance.png.jpg)
 
+## Project Files
+
+- [Power BI Dashboard](dashboard/MaDIq%20Labs%20Omni-Channel%20Analytics%20Dashboard.pbix)
+- [Dashboard Explanation](documentation/MaDIq_Labs_Dashboard_Explanation.pdf)
+- [Technical Documentation](documentation/MaDIq_Labs_Technical_Explanation.pdf)
+- [Synthetic Datasets](dataset/)
+
+> The `.pbix` file can be downloaded and opened using Power BI Desktop.
+
 ## Project Overview
 
 I built this project in my free time to go beyond individual Power BI charts and work through the complete dashboard development process.
